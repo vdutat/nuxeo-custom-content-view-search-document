@@ -9,7 +9,7 @@
   </parent>
   <artifactId>nuxeo-custom-content-view-search-document</artifactId>
   <groupId>org.nuxeo.ecm.platform.ui.web</groupId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>Nuxeo custom content view search document</name>
   <description/>
   <repositories>
