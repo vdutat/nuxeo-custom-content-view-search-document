@@ -1,0 +1,1 @@
+# nuxeo-custom-content-view-search-document
